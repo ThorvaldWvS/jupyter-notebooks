@@ -10,5 +10,11 @@ This repository contains Jupyter notebooks of my previously completed projects. 
 ## Installation
 
 To run the notebooks, ensure you have the required packages installed. You can install them using the following command:
-Usage
-Open the HTML files in a web browser to view and interact with the Jupyter notebooks. ```
+
+```sh
+pip install pandas numpy scikit-learn seaborn matplotlib PyPDF2 beautifulsoup4 spacy
+```
+
+## Usage
+
+Open the HTML files in a web browser to view and interact with the Jupyter notebooks.
